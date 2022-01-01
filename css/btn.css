@@ -1,0 +1,15 @@
+button {
+    color: aquamarine;
+
+    font-size: 3em;
+
+    width: 2em;
+
+    border-radius: 0.2em;
+
+    display: block;
+
+    margin: auto;
+
+    margin-top: 3em;
+}
